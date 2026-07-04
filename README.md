@@ -106,7 +106,3 @@ O pipeline realiza todas as etapas do processo ETL com sucesso e produz um conju
 ## 📄 Licença
 
 Projeto desenvolvido exclusivamente para fins acadêmicos.
-
-```
-
-```
