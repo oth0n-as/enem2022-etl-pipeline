@@ -1,24 +1,24 @@
 # Projeto Data Major – Pipeline ETL com Microdados do ENEM 2022
 
 ## 📖 Sobre o projeto
-Este projeto foi desenvolvido para a disciplina Tópicos de Banco de Dados do Centro Universitário IESB[cite: 1].
+Este projeto foi desenvolvido para a disciplina Tópicos de Banco de Dados do Centro Universitário IESB.
 
-O objetivo é construir um pipeline ETL completo utilizando os microdados do ENEM 2022, desde a coleta automatizada dos dados até a etapa de mineração, buscando analisar como fatores socioeconômicos e demográficos influenciam o desempenho dos participantes[cite: 1].
+O objetivo é construir um pipeline ETL completo utilizando os microdados do ENEM 2022, desde a coleta automatizada dos dados até a etapa de mineração, buscando analisar como fatores socioeconômicos e demográficos influenciam o desempenho dos participantes.
 
 ## 🎯 Objetivo
-Investigar a relação entre características dos candidatos e sua nota final no ENEM por meio de um pipeline composto pelas etapas de[cite: 1]:
-* **Extract**[cite: 1]
-* **Transform**[cite: 1]
-* **Load**[cite: 1]
-* **Data Mining**[cite: 1]
+Investigar a relação entre características dos candidatos e sua nota final no ENEM por meio de um pipeline composto pelas etapas de:
+* **Extract**
+* **Transform**
+* **Load**
+* **Data Mining**
 
 ## 🛠 Tecnologias utilizadas
-* **Linguagem:** Python[cite: 1]
-* **Ambiente:** Google Colab[cite: 1]
-* **Manipulação e Análise de Dados:** Pandas, NumPy[cite: 1]
-* **Processamento Distribuído:** Apache Spark (PySpark)[cite: 1]
-* **Armazenamento:** Parquet, Snappy, Google Drive[cite: 1]
-* **Machine Learning / Estatística:** Scikit-learn[cite: 1]
+* **Linguagem:** Python
+* **Ambiente:** Google Colab
+* **Manipulação e Análise de Dados:** Pandas, NumPy
+* **Processamento Distribuído:** Apache Spark (PySpark)
+* **Armazenamento:** Parquet, Snappy, Google Drive
+* **Machine Learning / Estatística:** Scikit-learn
 
 ## 📂 Estrutura do projeto
 ```text
@@ -79,18 +79,10 @@ Aplicação de um modelo de **Regressão Linear Múltipla** para analisar e mens
 
 | Integrante | Responsabilidade |
 | --- | --- |
-| **Othon Flávio Alves de Sales** | Extract
-
- |
-| **Mariana Paiva de Souza Moreira** | Transform
-
- |
-| **Nikolas Silva de Sousa** | Load
-
- |
-| **Matheus de Paula Machado Turturro** | Mineração
-
- |
+| **Othon Flávio Alves de Sales** | Extract|
+| **Mariana Paiva de Souza Moreira** | Transform|
+| **Nikolas Silva de Sousa** | Load|
+| **Matheus de Paula Machado Turturro** | Mineração|
 
 ## 🚀 Como executar
 
